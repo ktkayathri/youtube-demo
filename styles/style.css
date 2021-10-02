@@ -1,0 +1,50 @@
+.search{
+    width: 30px;
+    height: 30px;   
+}
+
+.hamburger{
+    width: 25px; 
+    height:25px;
+}
+
+.voice{
+    width: 20px;
+    height: 25px;   
+}
+
+.rounded-pill{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.offcanvas {
+    width: 250px;
+}
+
+.list-group-item{
+    border:none;
+}
+
+.smallFont{
+    font-size: smaller;   
+    color: black; 
+    text-align: center;  
+}
+
+.myContainer {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.card {
+    border: 0px;
+}
+
+.imgHover{
+    visibility: hidden;
+}
+
+.card:hover .imgHover{
+    visibility: visible;   
+}
